@@ -1,0 +1,1 @@
+Basic design for my ElkMonitor project. 
